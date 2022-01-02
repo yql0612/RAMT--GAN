@@ -1,2 +1,2 @@
-# RAMT--GAN
+# RAMT-GAN
 welcome to here！
